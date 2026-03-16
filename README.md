@@ -1,22 +1,14 @@
 
 # Tekno NoteBook
 
-<img width="1707" height="1141" alt="Tekno NoteBook" src="https://github.com/user-attachments/assets/9e561b3b-ece8-4bed-baee-398928a68030" />
 
 
 Tekno NoteBook is a note-taking application with text-to-speech (TTS), speech recognition, and AI assistant features.
 
----
+<img width="1707" height="1141" alt="Tekno NoteBook" src="https://github.com/user-attachments/assets/8a528017-44da-4167-a86b-333f866e2eec" />
 
-<p align="center">
-  <a href="https://youtu.be/JPFz9obzlmQ" title="Introduction Tekno Notebook">
-    <img src="https://img.youtube.com/vi/JPFz9obzlmQ/0.jpg" alt="Introduction Tekno Notebook">
-  </a>
-  <br>
-  <b>Watch on YouTube</b>
-</p>
 
----
+[Snap Store](https://snapcraft.io/tekno-notebook) | [Microsoft Store](https://apps.microsoft.com/detail/9pckclwhf930) | [Tutorial](https://youtu.be/JPFz9obzlmQ)
 
 ## Features
 
@@ -26,7 +18,11 @@ Tekno NoteBook is a note-taking application with text-to-speech (TTS), speech re
 * **Auto-Tracking:** Automatically follows and highlights the text currently being played.
 * **Smart Integrations:** Fully supports an AI assistant, Text-to-Speech (TTS), and Speech-to-Text (STT).
 * **Highly Customizable:** Highly configurable with easily adjustable settings to suit your preferences.
-* Document import for PDF, LaTeX, and Markdown formats, including full support for handling images.
+* **Document import:** for PDF, LaTeX, and Markdown formats, including full support for handling images.
+* **Export support:** PDF, LaTeX, and Markdown.
+* **Drag mode:** Easily reorder and organize notes.
+* **Table of contents navigation:** Available in editor, preview, and reader views.
+* **Math support:** Math lines with live preview and LaTeX compatibility.
 * **And many more!**
 
 
