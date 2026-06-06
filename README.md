@@ -9,7 +9,7 @@ Tekno NoteBook is a note-taking application with text-to-speech (TTS), speech re
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89be9c4b-0316-45f4-af91-be8de1504fd3" />
 
 
-[Snap Store](https://snapcraft.io/tekno-notebook) | [Microsoft Store](https://apps.microsoft.com/detail/9pckclwhf930) | [Tutorial](https://www.youtube.com/@falkonps)
+[Snap Store](https://snapcraft.io/tekno-notebook) | [Tarball](https://github.com/FALKONPS/tekno-notebook/releases/download/1.2.26/tekno-notebook-1.2.26.tar.gz) | [Microsoft Store](https://apps.microsoft.com/detail/9pckclwhf930) | [Tutorial](https://www.youtube.com/@falkonps)
 
 ## Features
 
