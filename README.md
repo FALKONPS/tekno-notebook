@@ -5,8 +5,8 @@
 
 Tekno NoteBook is a note-taking application with text-to-speech (TTS), speech recognition, and AI assistant features.
 
-<img width="1920" height="1080" alt="Screenshot From 2026-04-01 09-09-24" src="https://github.com/user-attachments/assets/318e97b8-7629-41a2-b8cf-5c98625b4923" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ee9175ab-5993-4201-a709-4d56e64625ed" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b6e072d-015f-4277-be14-8e0cce71c2b0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89be9c4b-0316-45f4-af91-be8de1504fd3" />
 
 
 [Snap Store](https://snapcraft.io/tekno-notebook) | [Microsoft Store](https://apps.microsoft.com/detail/9pckclwhf930) | [Tutorial](https://www.youtube.com/@falkonps)
@@ -56,6 +56,26 @@ sudo snap install tekno-notebook
     src="https://snapcraft.io/en/light/install.svg"
   />
 </a>
+
+---
+
+
+### Download Tarball
+
+
+You can also download and install **Tekno Notebook** manually using a tarball:
+
+```bash
+# Download
+wget https://github.com/FALKONPS/tekno-notebook/releases/download/1.2.26/tekno-notebook-1.2.26.tar.gz
+
+# Extract
+tar -xvzf tekno-notebook-1.2.26.tar.gz
+
+# Run
+cd tekno-notebook-1.2.26 && tekno-notebook
+```
+
 
 ---
 
