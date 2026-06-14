@@ -67,13 +67,13 @@ You can also download and install **Tekno Notebook** manually using a tarball:
 
 ```bash
 # Download
-wget https://github.com/FALKONPS/tekno-notebook/releases/download/1.2.27/tekno-notebook-1.2.27.tar.gz
+wget https://github.com/FALKONPS/tekno-notebook/releases/download/1.2.28/tekno-notebook-1.2.28.tar.gz
 
 # Extract
-tar -xvzf tekno-notebook-1.2.27.tar.gz
+tar -xvzf tekno-notebook-1.2.28.tar.gz
 
 # Run
-cd tekno-notebook-1.2.27 && tekno-notebook
+cd tekno-notebook-1.2.28 && tekno-notebook
 ```
 
 
