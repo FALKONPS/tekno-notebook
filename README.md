@@ -1,15 +1,17 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/129d66a3-38ef-4270-8b74-4a53c8cf173a" alt="Tekno NoteBook Logo" width="128" height="128" />
+</p>
+
 
 # Tekno NoteBook
 **Privacy-First & Fully Local:** Works entirely offline with a focus on privacy, using fully local systems.
 
 
 Tekno NoteBook is a note-taking application with text-to-speech (TTS), speech recognition, and AI assistant features.
+<img width="3840" height="2096" alt="image" src="https://github.com/user-attachments/assets/c6ad4872-e8fd-4763-a3db-b4352b3dd1d3" />
+<img width="3840" height="2096" alt="image" src="https://github.com/user-attachments/assets/b4df0ea2-b5a6-49c7-bdad-5947e4b996c2" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2b6e072d-015f-4277-be14-8e0cce71c2b0" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/89be9c4b-0316-45f4-af91-be8de1504fd3" />
-
-
-[Snap Store](https://snapcraft.io/tekno-notebook) | [Tarball](https://github.com/FALKONPS/tekno-notebook/releases/download/1.2.26/tekno-notebook-1.2.26.tar.gz) | [Microsoft Store](https://apps.microsoft.com/detail/9pckclwhf930) | [Tutorial](https://www.youtube.com/@falkonps)
+[Snap Store](https://snapcraft.io/tekno-notebook) | [Tarball](https://github.com/FALKONPS/tekno-notebook/releases/download/1.3.2/tekno-notebook-1.3.2.tar.gz) | [Microsoft Store](https://apps.microsoft.com/detail/9pckclwhf930) | [Tutorial](https://www.youtube.com/@falkonps)
 
 ## Features
 
@@ -26,6 +28,7 @@ Tekno NoteBook is a note-taking application with text-to-speech (TTS), speech re
 * **Highly Customizable:** Highly configurable with easily adjustable settings to suit your preferences, including light and dark mode.
 * **Math Support:** Math lines with live preview and LaTeX compatibility, including table and LaTeX math line types.
 * **Document Import:** Supports PDF, LaTeX, and Markdown formats, including full support for handling images.
+* **Multi-Language Support:** Available in Arabic, English, Spanish, Portuguese, and Chinese.
 * **Export Support:** PDF, LaTeX, and Markdown.
 * **Drag Mode:** Easily reorder and organize notes.
 * **Table of Contents Navigation:** Available in editor and reader views.
@@ -67,13 +70,13 @@ You can also download and install **Tekno Notebook** manually using a tarball:
 
 ```bash
 # Download
-wget https://github.com/FALKONPS/tekno-notebook/releases/download/1.2.28/tekno-notebook-1.2.28.tar.gz
+wget https://github.com/FALKONPS/tekno-notebook/releases/download/1.3.2/tekno-notebook-1.3.2.tar.gz
 
 # Extract
-tar -xvzf tekno-notebook-1.2.28.tar.gz
+tar -xvzf tekno-notebook-1.3.2.tar.gz
 
 # Run
-cd tekno-notebook-1.2.28 && tekno-notebook
+cd tekno-notebook-1.3.2 && tekno-notebook
 ```
 
 
